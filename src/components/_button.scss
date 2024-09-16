@@ -1,0 +1,10 @@
+@import '../base/variables';
+@import '../base/mixins';
+
+.btn {
+  @include button-style($primary-color);
+}
+
+.btn-secondary {
+  @include button-style(grey);
+}
