@@ -1,6 +1,6 @@
 {
-  "name": "my-css-framework",
-  "version": "1.0.0",
+  "name": "framelite",
+  "version": "1.0.1",
   "description": "A custom CSS framework optimized for performance",
   "main": "dist/main.min.css",
   "type": "module",
